@@ -13,7 +13,7 @@ Deadfish has four commands, each one character's long:
 
 Invalid characters should be ignored.
 
-## Examples
+### Examples
 
 ```rust
 parse("iiisdoso") => [ 8, 64 ]
